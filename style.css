@@ -19,7 +19,6 @@ header {
     justify-content:space-between;
     margin: 15px 0;
     position: relative; 
-    flex-direction: column;
 }
 
 main {
@@ -36,7 +35,7 @@ main {
 }
 
 .search-bar {
-    width: 35%;
+    width: 540px;
     margin: 0 auto;
     border: 1px solid lightgray;
     border-radius: 20px;
